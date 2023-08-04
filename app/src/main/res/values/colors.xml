@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2E7D32</color>
+    <color name="colorPrimaryDark">#ff5722</color>
+    <color name="colorAccent">#e53935</color>
+    <color name="white">#ffffff</color>
+    <color name="cost_for_one">#e53935</color>
+    <color name="black">#000000</color>
+    <color name="green">#1faa00</color>
+    <color name="bg">#CCFF90</color>
+    <color name="buttonGreen">#2E7D32</color>
+    <color name="purple_200">#CE93D8</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="teal_200">#80CBC4</color>
+    <color name="teal_700">#00796B</color>
+</resources>
